@@ -50,5 +50,3 @@ The dashboard highlights key performance metrics and visualizations:
 - **ETL** – Data Cleaning & Transformation  
 
 ---
-
-## 📂 Project Structure
