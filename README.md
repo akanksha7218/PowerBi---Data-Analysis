@@ -1,5 +1,3 @@
-# PowerBi---Data-Analysis
-I have developed a comprehensive project in Power BI on E-Commerce Sales Analysis. The dashboard highlights key KPIs such as Sales, Profit, AOV, and Quantity, along with insights into customer behavior, payment modes, state-wise performance, and product category trends.
 # 📊 E-Commerce Store Sales Report (Power BI Dashboard)
 
 This project is an **interactive Power BI Dashboard** that analyzes **E-Commerce Sales Data**.  
