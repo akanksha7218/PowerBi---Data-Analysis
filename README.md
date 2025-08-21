@@ -32,14 +32,14 @@ The dashboard highlights key performance metrics and visualizations:
 ---
 
 ## 📊 Dashboard Screenshot
-![E-Commerce Dashboard](PowerBi%20Project%201.jpg)
+![E-Commerce Dashboard](PowerBi%20Project%201.jpg
 
 ---
 
 ## 📌 Dashboard Insights
 
 ### 1️⃣ Profit by Sub-Category
-![Profit by Sub-Category](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/B%201%201.png)
+![Amount by Customer](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/B1%206.png)
 🔎 **Insights**  
 - **Printers** generate the highest profit.  
 - **Bookcases** also contribute significantly.  
