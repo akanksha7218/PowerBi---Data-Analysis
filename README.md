@@ -80,7 +80,7 @@ The dashboard highlights key performance metrics and visualizations:
 ---
 
 ### 5️⃣ Quantity by Payment Mode
-![Quantity by PaymentMode](B1%205.png)  
+![Quantity by PaymentMode](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/B1%205.png) 
 🔎 **Insights**  
 - **COD (44%)** dominates as most used payment mode.  
 - **UPI (21%)** adoption shows digital shift.  
