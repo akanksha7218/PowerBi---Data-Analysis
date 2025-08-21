@@ -59,8 +59,7 @@ The dashboard highlights key performance metrics and visualizations:
 ---
 
 ### 3️⃣ Amount by Customer
-![Amount by Customer]()
-)  
+![Amount by Customer](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/B1%204.png)  
 🔎 **Insights**  
 - **Harivansh** is the top spender (~10K).  
 - **Madhav & Madan Mohan** show medium spending.  
@@ -106,15 +105,9 @@ The dashboard highlights key performance metrics and visualizations:
 
 ---
 
-## 📂 Project Link
-🔗 [View Full Power BI Project](#) _(Add your project link here)_  
-
----
-
 ## 📧 Contact
-👤 **Your Name**  
-📩 Email: yourname@email.com  
-🌐 Portfolio: [Your Website/LinkedIn](#)  
+👤 **Akanksha Malusare**  
+
 
 ---
 ✨ This dashboard provides actionable insights for business growth & decision-making!
