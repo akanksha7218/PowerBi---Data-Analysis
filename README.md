@@ -36,17 +36,85 @@ The dashboard highlights key performance metrics and visualizations:
 
 ---
 
-## 🎯 Business Insights
-- **Cash on Delivery (COD)** dominates payment preferences.  
-- **Clothing category** leads in sales quantity.  
-- **Seasonal trend**: Best performance in **Q1 and Q4**, dip in mid-year.  
-- **Customer segmentation**: Identify high-value customers for loyalty programs.  
+## 📌 Dashboard Insights
+
+### 1️⃣ Profit by Sub-Category
+![Profit by Sub-Category](B%201%201.png)  
+🔎 **Insights**  
+- **Printers** generate the highest profit.  
+- **Bookcases** also contribute significantly.  
+- **Sarees, Accessories, Tables** have lower profits.  
+- Focus area → Printers & Bookcases for **higher ROI**.  
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Power BI** – Data Visualization & Dashboarding  
-- **Data Modeling** – Relationships, DAX calculations  
-- **ETL** – Data Cleaning & Transformation  
+### 2️⃣ Quantity by Category
+![Quantity by Category](B1%202.png)  
+🔎 **Insights**  
+- **Clothing** dominates with **63% of sales quantity**.  
+- **Electronics** contribute **21%**.  
+- **Furniture** at **17%** is the least sold.  
+- Indicates **customer preference is strongly inclined towards Clothing**.  
 
 ---
+
+### 3️⃣ Amount by Customer
+![Amount by Customer](B1%203.png)  
+🔎 **Insights**  
+- **Harivansh** is the top spender (~10K).  
+- **Madhav & Madan Mohan** show medium spending.  
+- **Shiva** contributes the least among top customers.  
+- Suggests **targeted loyalty programs** can boost mid-level spenders.  
+
+---
+
+### 4️⃣ Profit by Month
+![Profit by Month](B1%204.png)  
+🔎 **Insights**  
+- **Profitable months:** Jan, Feb, Mar, Apr, Dec.  
+- **Loss-making months:** May, Jul, Aug, Oct.  
+- Clear **seasonality trend** → Strong Q1 & December.  
+- Strategy: **Boost marketing during May–Aug to reduce losses**.  
+
+---
+
+### 5️⃣ Quantity by Payment Mode
+![Quantity by PaymentMode](B1%205.png)  
+🔎 **Insights**  
+- **COD (44%)** dominates as most used payment mode.  
+- **UPI (21%)** adoption shows digital shift.  
+- **Debit (13%) & Credit (12%)** contribute equally.  
+- **EMI (10%)** highlights flexibility demand in higher purchases.  
+
+---
+
+### 6️⃣ Profit by State
+![Profit by State](B1%206.png)  
+🔎 **Insights**  
+- **Madhya Pradesh & Maharashtra** lead in profit.  
+- **Uttar Pradesh** follows with moderate profits.  
+- **Delhi & Rajasthan** show minimal contribution.  
+- Action: **Expand operations in high-profit states, strengthen weak states**.  
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI** (Dashboard & Visualization)  
+- **Excel / CSV Data Source**  
+- **Data Cleaning & Transformation**  
+
+---
+
+## 📂 Project Link
+🔗 [View Full Power BI Project](#) _(Add your project link here)_  
+
+---
+
+## 📧 Contact
+👤 **Your Name**  
+📩 Email: yourname@email.com  
+🌐 Portfolio: [Your Website/LinkedIn](#)  
+
+---
+✨ This dashboard provides actionable insights for business growth & decision-making!
+
