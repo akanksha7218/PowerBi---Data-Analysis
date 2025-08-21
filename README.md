@@ -8,6 +8,7 @@ It provides insights into sales, profit trends, customer behavior, and product p
 ## 🚀 Dashboard Overview
 The dashboard highlights key performance metrics and visualizations:
 
+![Dashboard Overview](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/PowerBi%20Project%201.jpg)
 ### 🔑 KPIs
 - **Sum of Amount**: `438K`
 - **Sum of Quantity**: `5615`
