@@ -89,7 +89,7 @@ The dashboard highlights key performance metrics and visualizations:
 ---
 
 ### 6️⃣ Profit by State
-![Profit by State](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/B1%206.png)
+![Profit by Sub-Category](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/B%201%201.png)
 🔎 **Insights**  
 - **Madhya Pradesh & Maharashtra** lead in profit.  
 - **Uttar Pradesh** follows with moderate profits.  
