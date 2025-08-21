@@ -39,7 +39,7 @@ The dashboard highlights key performance metrics and visualizations:
 ## 📌 Dashboard Insights
 
 ### 1️⃣ Profit by Sub-Category
-![Profit by Sub-Category](B%201%201.png)  
+![Profit by Sub-Category](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/B%201%201.png)
 🔎 **Insights**  
 - **Printers** generate the highest profit.  
 - **Bookcases** also contribute significantly.  
