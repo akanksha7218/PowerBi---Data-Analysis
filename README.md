@@ -49,7 +49,7 @@ The dashboard highlights key performance metrics and visualizations:
 ---
 
 ### 2️⃣ Quantity by Category
-![Quantity by Category](B1%202.png)  
+![Quantity by Category](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/B1%202.png)
 🔎 **Insights**  
 - **Clothing** dominates with **63% of sales quantity**.  
 - **Electronics** contribute **21%**.  
