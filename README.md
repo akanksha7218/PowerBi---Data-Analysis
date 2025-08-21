@@ -59,7 +59,8 @@ The dashboard highlights key performance metrics and visualizations:
 ---
 
 ### 3️⃣ Amount by Customer
-![Amount by Customer](B1%203.png)  
+![Amount by Customer]()
+)  
 🔎 **Insights**  
 - **Harivansh** is the top spender (~10K).  
 - **Madhav & Madan Mohan** show medium spending.  
@@ -69,7 +70,7 @@ The dashboard highlights key performance metrics and visualizations:
 ---
 
 ### 4️⃣ Profit by Month
-![Profit by Month](B1%204.png)  
+![Profit by Month](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/B1%203.png)  
 🔎 **Insights**  
 - **Profitable months:** Jan, Feb, Mar, Apr, Dec.  
 - **Loss-making months:** May, Jul, Aug, Oct.  
