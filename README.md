@@ -103,11 +103,5 @@ The dashboard highlights key performance metrics and visualizations:
 - **Data Cleaning & Transformation**  
 
 ---
-
-## 📧 Contact
-👤 **Akanksha Malusare**  
-
-
----
 ✨ This dashboard provides actionable insights for business growth & decision-making!
 
