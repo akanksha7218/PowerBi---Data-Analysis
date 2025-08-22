@@ -95,8 +95,9 @@ The dashboard highlights key performance metrics and visualizations:
 - **Delhi & Rajasthan** show minimal contribution.  
 - Action: **Expand operations in high-profit states, strengthen weak states**.
 - 
- 📊 Key Metrics   
-![KPI Summary](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/Screenshot%202025-08-22%20113401.png)  
+ 📊 Key Metrics
+
+![https://github.com/akanksha7218/PowerBi---Data-Analysis/blob/main/B1%207.png](https://github.com/akanksha7218/PowerBi---Data-Analysis/blob/main/B1%207.png)  
 
 ---
 
