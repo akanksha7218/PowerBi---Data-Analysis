@@ -93,7 +93,17 @@ The dashboard highlights key performance metrics and visualizations:
 - **Madhya Pradesh & Maharashtra** lead in profit.  
 - **Uttar Pradesh** follows with moderate profits.  
 - **Delhi & Rajasthan** show minimal contribution.  
-- Action: **Expand operations in high-profit states, strengthen weak states**.  
+- Action: **Expand operations in high-profit states, strengthen weak states**.
+- 
+ 📊 Key Metrics   
+![KPI Summary](https://raw.githubusercontent.com/akanksha7218/PowerBi---Data-Analysis/main/Screenshot%202025-08-22%20113401.png)  
+
+---
+
+## 🚀 Insights  
+- The business is generating **healthy sales (438K)** with a **good profit margin (37K)**.  
+- High **AOV (121K)** suggests premium products or bulk orders are driving revenue.  
+- Selling **5615 units** indicates steady customer demand and product movement.  
 
 ---
 
